@@ -1,3 +1,11 @@
-bin/
-obj/
-.vs/
+* .suo
+* .sln.docstates
+* .userprefs
+* .user
+* .rsuser
+* .userosscache
+mono_crash. *
+[ Dd ] ebug /
+[ Oo ] bj /
+.vs /
+* .iobj
