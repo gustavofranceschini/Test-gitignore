@@ -20,6 +20,7 @@ namespace TestGit
             Console.WriteLine("information people:");
             Console.WriteLine("Name: "+git.Name);
             Console.WriteLine("Idade: "+git.Idade);
+            Console.WriteLine();
         }
     }
 }
