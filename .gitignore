@@ -1,11 +1,3 @@
-* .suo
-* .sln.docstates
-* .userprefs
-* .user
-* .rsuser
-* .userosscache
-mono_crash. *
-[ Dd ] ebug /
-[ Oo ] bj /
-.vs /
-* .iobj
+TestGit/bin
+TestGit/obj
+*.sln
